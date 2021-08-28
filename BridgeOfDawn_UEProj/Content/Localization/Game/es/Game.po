@@ -1,0 +1,127 @@
+﻿# Game Spanish translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2021-08-28 17:34\n"
+"PO-Revision-Date: 2021-08-28 17:34\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	01FEF17D40730DA5F68EEEB18C88EBCE
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_145.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_145.Text
+msgctxt ",01FEF17D40730DA5F68EEEB18C88EBCE"
+msgid "Return to Main Menu"
+msgstr "Volver al menú principal"
+
+#. Key:	412A681B443BBECC6FE8F497785813E1
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_67.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_67.Text
+msgctxt ",412A681B443BBECC6FE8F497785813E1"
+msgid "Start Game (1 Player)"
+msgstr ""
+
+#. Key:	4EEE8F284A4612221B5D82AE60E84A4B
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_147.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_147.Text
+msgctxt ",4EEE8F284A4612221B5D82AE60E84A4B"
+msgid "Settings"
+msgstr ""
+
+#. Key:	5E4D9B96447F0056178DBEB897A1906E
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_5.Text
+msgctxt ",5E4D9B96447F0056178DBEB897A1906E"
+msgid "Quality/Performance"
+msgstr ""
+
+#. Key:	668A7E8D4399A6E37F4C87A3D4B4D6E8
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",668A7E8D4399A6E37F4C87A3D4B4D6E8"
+msgid "Enable Subtitles"
+msgstr ""
+
+#. Key:	675714C04B149864647F4799F748178E
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_3.Text
+msgctxt ",675714C04B149864647F4799F748178E"
+msgid "Music Volume"
+msgstr ""
+
+#. Key:	6F1608C74D263F47B611CDB08AC4130B
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
+msgctxt ",6F1608C74D263F47B611CDB08AC4130B"
+msgid "Mama Makes Games"
+msgstr ""
+
+#. Key:	90C3EC334D77C1B5482E389B4BDF9F4E
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",90C3EC334D77C1B5482E389B4BDF9F4E"
+msgid "Fox Tag (2 Players)"
+msgstr ""
+
+#. Key:	A3A6689D4F730BDC45686EAEA50353DD
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock.Text
+msgctxt ",A3A6689D4F730BDC45686EAEA50353DD"
+msgid "Start Game (2 Players)"
+msgstr ""
+
+#. Key:	AD65FAB2401B9050C5AF9F89DD4009C9
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_69.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_69.Text
+msgctxt ",AD65FAB2401B9050C5AF9F89DD4009C9"
+msgid "Copyright © 2021 by Mama Makes Games, LLC"
+msgstr ""
+
+#. Key:	D8487BDA4E3B3D45B6E3FE93193D2832
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",D8487BDA4E3B3D45B6E3FE93193D2832"
+msgid "Narration Volume"
+msgstr ""
+
+#. Key:	E6C247544FA5D305DB6803BC355CDC69
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock.Text
+msgctxt ",E6C247544FA5D305DB6803BC355CDC69"
+msgid "Enable Raytracing"
+msgstr ""
+
+#. Key:	E716ED8648BA859DF96D17A927D85FF4
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_40.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_40.Text
+msgctxt ",E716ED8648BA859DF96D17A927D85FF4"
+msgid "Language"
+msgstr ""
+
+#. Key:	F29F5DCF4EC4C51767CBD0B132408CEC
+#. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",F29F5DCF4EC4C51767CBD0B132408CEC"
+msgid "Sound Effects Volume"
+msgstr ""
+
+#. Key:	FDD7633C43FD1F391B3875833AE53174
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",FDD7633C43FD1F391B3875833AE53174"
+msgid "Quit to Desktop"
+msgstr ""
+
+#. Key:	FFB4751C42E0D896966C71B6ED1C45FD
+#. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",FFB4751C42E0D896966C71B6ED1C45FD"
+msgid "Settings"
+msgstr ""
+
