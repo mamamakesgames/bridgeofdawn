@@ -22,7 +22,7 @@ More information about the game can be found at http://www.bridgeofdawn.com
 - Created by an all-female team led by [Kimberly Blais](https://www.instagram.com/mamamakesgames/) from [Mama Makes Games](https://www.mamamakesgames.com)
 - Available for completely free to download, play, and modify however you'd like
 
-## Current Progress Update (2021-08-29)
+## Current Progress Update (2021-08-30)
 
 - Script... **done**.
 - Vocal recordings... **done**.
@@ -33,7 +33,10 @@ More information about the game can be found at http://www.bridgeofdawn.com
 - HUD... **done**.
 - Waypoint system... **done**.
 - Scoring/results... **done**.
-- Enemy AI... *coming next*
-- Dynamic music system... *coming next*
-- Cinematics... *coming next*
+- Dynamic music system... **done**.
+- Cinematics... *in progress*
+- Manual translation into Chinese and Spanish... *in progress*
+- Enemy AI... *coming soon*
+- Level design... *coming soon*
+- "Tag" mode... *coming soon*
 
