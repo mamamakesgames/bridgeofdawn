@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2021-08-28 17:34\n"
-"PO-Revision-Date: 2021-08-28 17:34\n"
+"POT-Creation-Date: 2021-08-31 21:19\n"
+"PO-Revision-Date: 2021-08-31 21:19\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +20,54 @@ msgctxt ",01FEF17D40730DA5F68EEEB18C88EBCE"
 msgid "Return to Main Menu"
 msgstr "Return to Main Menu"
 
+#. Key:	03E9AE5644E0556DF966FFA452BE1500
+#. SourceLocation:	/Game/UI/SubtitlesWidget.SubtitlesWidget_C:WidgetTree.SubtitleText.Text
+#: /Game/UI/SubtitlesWidget.SubtitlesWidget_C:WidgetTree.SubtitleText.Text
+msgctxt ",03E9AE5644E0556DF966FFA452BE1500"
+msgid "Subtitles here"
+msgstr "Subtitles here"
+
+#. Key:	0DA3368149A960CFDDBFFEA006B1720E
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_3.Text
+msgctxt ",0DA3368149A960CFDDBFFEA006B1720E"
+msgid "Level Time"
+msgstr "Level Time"
+
+#. Key:	1001C1AF47867A5E036642B9FF62DFD6
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.SpeedText.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.SpeedText.Text
+msgctxt ",1001C1AF47867A5E036642B9FF62DFD6"
+msgid "50"
+msgstr "50"
+
 #. Key:	412A681B443BBECC6FE8F497785813E1
 #. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_67.Text
 #: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_67.Text
 msgctxt ",412A681B443BBECC6FE8F497785813E1"
 msgid "Start Game (1 Player)"
 msgstr "Start Game (1 Player)"
+
+#. Key:	41894621456A9708D89754A8FB5BA247
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TimeLeftText.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TimeLeftText.Text
+msgctxt ",41894621456A9708D89754A8FB5BA247"
+msgid "10"
+msgstr "10"
+
+#. Key:	4C03037649B67AB22E561ABDF2AC9E24
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock.Text
+msgctxt ",4C03037649B67AB22E561ABDF2AC9E24"
+msgid "Points"
+msgstr "Points"
+
+#. Key:	4EC4B84243C7D074BBDFE6999E9FC33E
+#. SourceLocation:	/Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_58.Text
+#: /Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_58.Text
+msgctxt ",4EC4B84243C7D074BBDFE6999E9FC33E"
+msgid "Resume Game"
+msgstr "Resume Game"
 
 #. Key:	4EEE8F284A4612221B5D82AE60E84A4B
 #. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_147.Text
@@ -34,12 +76,26 @@ msgctxt ",4EEE8F284A4612221B5D82AE60E84A4B"
 msgid "Settings"
 msgstr "Settings"
 
+#. Key:	551698F04504EF418A8137B52F636442
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_60.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_60.Text
+msgctxt ",551698F04504EF418A8137B52F636442"
+msgid "Sprint"
+msgstr "Sprint"
+
 #. Key:	5E4D9B96447F0056178DBEB897A1906E
 #. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_5.Text
 #: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_5.Text
 msgctxt ",5E4D9B96447F0056178DBEB897A1906E"
 msgid "Quality/Performance"
 msgstr "Quality/Performance"
+
+#. Key:	602739114BA6E5B57A92FAA5FF66F99F
+#. SourceLocation:	/Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_99.Text
+#: /Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_99.Text
+msgctxt ",602739114BA6E5B57A92FAA5FF66F99F"
+msgid "Quit to Main Menu"
+msgstr "Quit to Main Menu"
 
 #. Key:	668A7E8D4399A6E37F4C87A3D4B4D6E8
 #. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_4.Text
@@ -55,6 +111,13 @@ msgctxt ",675714C04B149864647F4799F748178E"
 msgid "Music Volume"
 msgstr "Music Volume"
 
+#. Key:	6ED7DEED437718DA4DDC34A63AAA089B
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",6ED7DEED437718DA4DDC34A63AAA089B"
+msgid "Speed"
+msgstr "Speed"
+
 #. Key:	6F1608C74D263F47B611CDB08AC4130B
 #. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
 #: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_3.Text
@@ -62,12 +125,33 @@ msgctxt ",6F1608C74D263F47B611CDB08AC4130B"
 msgid "Mama Makes Games"
 msgstr "Mama Makes Games"
 
+#. Key:	78F62EC1447196AB5FF8C797267A0DDC
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",78F62EC1447196AB5FF8C797267A0DDC"
+msgid "Game Time"
+msgstr "Game Time"
+
+#. Key:	8C88BD4C45D5191C81883FBCC25225C3
+#. SourceLocation:	/Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_147.Text
+#: /Game/UI/PauseWidget.PauseWidget_C:WidgetTree.TextBlock_147.Text
+msgctxt ",8C88BD4C45D5191C81883FBCC25225C3"
+msgid "Paused"
+msgstr "Paused"
+
 #. Key:	90C3EC334D77C1B5482E389B4BDF9F4E
 #. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
 #: /Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock_1.Text
 msgctxt ",90C3EC334D77C1B5482E389B4BDF9F4E"
 msgid "Fox Tag (2 Players)"
 msgstr "Fox Tag (2 Players)"
+
+#. Key:	9F6F903D45B99957811C34AD8EC5B730
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",9F6F903D45B99957811C34AD8EC5B730"
+msgid "Jump"
+msgstr "Jump"
 
 #. Key:	A3A6689D4F730BDC45686EAEA50353DD
 #. SourceLocation:	/Game/UI/MainMenuWidget.MainMenuWidget_C:WidgetTree.TextBlock.Text
@@ -83,12 +167,33 @@ msgctxt ",AD65FAB2401B9050C5AF9F89DD4009C9"
 msgid "Copyright © 2021 by Mama Makes Games, LLC"
 msgstr "Copyright © 2021 by Mama Makes Games, LLC"
 
+#. Key:	AE3D2E0D468BF7CF1728A19573606F76
+#. SourceLocation:	/Game/UI/FloatingMessageWidget.FloatingMessageWidget_C:WidgetTree.MessageTextblock.Text
+#: /Game/UI/FloatingMessageWidget.FloatingMessageWidget_C:WidgetTree.MessageTextblock.Text
+msgctxt ",AE3D2E0D468BF7CF1728A19573606F76"
+msgid "Good Job!"
+msgstr "Good Job!"
+
+#. Key:	BEFD6B3247A9B1A6697916AF7DBA42EC
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.PowerUpText.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.PowerUpText.Text
+msgctxt ",BEFD6B3247A9B1A6697916AF7DBA42EC"
+msgid "EXTRA SPRINT"
+msgstr "EXTRA SPRINT"
+
 #. Key:	D8487BDA4E3B3D45B6E3FE93193D2832
 #. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_1.Text
 #: /Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock_1.Text
 msgctxt ",D8487BDA4E3B3D45B6E3FE93193D2832"
 msgid "Narration Volume"
 msgstr "Narration Volume"
+
+#. Key:	DAC1E9144804E2E37BEDF1B592F46341
+#. SourceLocation:	/Game/UI/HUDWidget.HUDWidget_C:WidgetTree.LevelTimeText.Text
+#: /Game/UI/HUDWidget.HUDWidget_C:WidgetTree.LevelTimeText.Text
+msgctxt ",DAC1E9144804E2E37BEDF1B592F46341"
+msgid "0:07.45"
+msgstr "0:07.45"
 
 #. Key:	E6C247544FA5D305DB6803BC355CDC69
 #. SourceLocation:	/Game/UI/SettingsWidget.SettingsWidget_C:WidgetTree.TextBlock.Text
