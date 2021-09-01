@@ -34,9 +34,9 @@ More information about the game can be found at http://www.bridgeofdawn.com
 - Waypoint system... **done**.
 - Scoring/results... **done**.
 - Dynamic music system... **done**.
+- Enemy AI... **done**.
 - Cinematics... *in progress*
 - Manual translation into Chinese and Spanish... *in progress*
-- Enemy AI... *coming soon*
 - Level design... *coming soon*
 - "Tag" mode... *coming soon*
 

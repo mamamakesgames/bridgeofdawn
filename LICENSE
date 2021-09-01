@@ -35,9 +35,16 @@ resources are used in this project:
     https://www.unrealengine.com/marketplace/en-US/product/good-sky
   * PROTOFACTOR INC's "ANIMAL VARIETY PACK"
     https://www.unrealengine.com/marketplace/en-US/product/17c2d7d545674204a7644c3c0c4c58ba
-  * PROTOFACTOR INC's "AFRICAN ANIMALS PACK"
-    https://www.unrealengine.com/marketplace/en-US/product/african-animals-pack
-  * Quixel Megascan's "Megascans - Creature Fur Vol. 1"
-    https://www.unrealengine.com/marketplace/en-US/product/5aee3aa3f20f4e6d818d64b5467c01b6
   * TypeTogether's Bree Serif font
     https://fonts.google.com/specimen/Bree+Serif#license
+
+These were used for:
+  * The base fox model and materials
+  * The foliage and landscape material
+  * The sky box
+  * The non-CJK font
+  * The water materials used not only for water, but also the power up bubbles
+
+Additionally, the sound effects (but not the music, which is original to the
+game) are all public domain.
+
