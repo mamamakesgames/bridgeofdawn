@@ -22,21 +22,21 @@ More information about the game can be found at http://www.bridgeofdawn.com
 - Created by an all-female team led by [Kimberly Blais](https://www.instagram.com/mamamakesgames/) from [Mama Makes Games](https://www.mamamakesgames.com)
 - Available for completely free to download, play, and modify however you'd like
 
-## Current Progress Update (2021-08-30)
+## Technical Aspects
 
-- Script... **done**.
-- Vocal recordings... **done**.
-- Subtitles... **done**.
-- Menu systems... **done**.
-- Localization... **done**.
-- Player locomotion... **done**.
-- HUD... **done**.
-- Waypoint system... **done**.
-- Scoring/results... **done**.
-- Dynamic music system... **done**.
-- Enemy AI... **done**.
-- Cinematics... *in progress*
-- Manual translation into Chinese and Spanish... *in progress*
-- Level design... *coming soon*
-- "Tag" mode... *coming soon*
+If you're looking for an example of how to do certain things in the Unreal Engine, this project might be helpful. Here are some of the interesting engine features or techniques this project implements:
 
+- Procedural foliage generation
+- Dynamic music
+- Decision-tree based AI with hearing and seeing
+- Actor-to-actor socketing (used by the Timekeepers "riding" and "holding" the fox)
+- Subtitles and localization
+- MP4 display within a cinematic sequence
+- Local multiplayer
+- Adjustable graphics quality
+- Angle-based velocity adjustments (faster downhill, slower uphill)
+- ...and the usual suspects like landscapes, saving game settings, HUDs, multilevel game state, etc.
+
+## Current Progress Update (2021-09-02)
+
+I've temporarily removed the cinematics and voice overs from the game for now, to get things ready in time for the jam. They'll be back in a new form soon! :)

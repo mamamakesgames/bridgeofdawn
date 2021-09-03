@@ -29,22 +29,32 @@ resources are used in this project:
 
   * Project Nature's "temperate Vegetation: Foliage Collection"
     https://www.unrealengine.com/marketplace/en-US/product/interactive-foliage-collection
+  * Project Nature's "temperate Vegetation: Spruce Forest"
+    https://www.unrealengine.com/marketplace/en-US/product/interactive-spruce-forest
   * tharlevfx's "Water Materials"
     https://www.unrealengine.com/marketplace/en-US/product/water-materials
   * UNEASY's "GOOD SKY"
     https://www.unrealengine.com/marketplace/en-US/product/good-sky
   * PROTOFACTOR INC's "ANIMAL VARIETY PACK"
     https://www.unrealengine.com/marketplace/en-US/product/17c2d7d545674204a7644c3c0c4c58ba
+  * Dekogon Studio's "Ancient Treasures"
+    https://www.unrealengine.com/marketplace/en-US/product/9efde82ef29746fcbb2cb0e45e714f43
+  * Gokhan Karadayi's "Landscape Backgrounds"
+    https://www.unrealengine.com/marketplace/en-US/product/photoreal-background-mountains
+  * SilverTm's "City Park Environment Collection":
+    https://www.unrealengine.com/marketplace/en-US/product/city-park-environment-collection
   * TypeTogether's Bree Serif font
     https://fonts.google.com/specimen/Bree+Serif#license
 
 These were used for:
   * The base fox model and materials
-  * The foliage and landscape material
+  * The foliage, rocks, fences, and landscape materials
+  * Bonus point jewels
   * The sky box
-  * The non-CJK font
   * The water materials used not only for water, but also the power up bubbles
+  * The non-CJK font
 
-Additionally, the sound effects (but not the music, which is original to the
-game) are all public domain.
+Additionally, the sound effects are all public domain.
 
+Everything else in the game, including the music, vocal recordings, and all
+game program logic is original to this work.
