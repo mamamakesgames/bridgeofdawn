@@ -6,9 +6,21 @@ The source code and Unreal Engine 4 project for this game is available for free 
 
 More information about the game can be found at http://www.bridgeofdawn.com 
 
+## IMPORTANT: How to get the current source
+
+The game was originally made using some free assets from Epic's "permanently free" collection. I had tried to keep these assets fairly minimal to keep the game under 1 GB in order to avoid using Itch.Io's `butler` upload tool. As fate would have it, the game ended up being slightly over 1 GB and I scrambled to upload it before the jam closed. Fortunately, `butler` was easy to use (though very slow uploading), and *Bridge of Dawn* was uploaded before the jam closed with minutes to spare.
+
+After the jam closed, I switched to [Landscape Pro 2.0]
+(https://www.unrealengine.com/marketplace/en-US/product/landscape-pro-auto-generated-material), which was also part of the permanently free collection but quite a bit larger. This led me to a new discovery: GitHub has a 10 GB repository limit. After wrestling to keep within this for several days, I've given up and now the source code is hosted here:
+
+[https://www.dropbox.com/sh/usobnsuqcuq3fbs/AAA5IXEZqfpcEtwhvLhM8OERa?dl=0](https://www.dropbox.com/sh/usobnsuqcuq3fbs/AAA5IXEZqfpcEtwhvLhM8OERa?dl=0)
+
+(This is a 5.7 GB zip file download!) The GitHub repository might remain interesting, however, as it shows the game's development during the game jam week.
+
 ## Download and Play
 
-*The game is currently in very early development, but I'll upload a playable release in a few days.* You'll find playable releases [here on GitHub](https://github.com/mamamakesgames/bridgeofdawn/releases/) or at [Itch.Io](https://mama-makes-games.itch.io/bridge-of-dawn).
+The game is currently available pre-built for Windows 64-bit systems here (~1.6 GB):
+[https://www.dropbox.com/sh/6e6kwh84y9b6aoi/AAAAZtzvnK7jm0qS3C5TEa9qa?dl=0](https://www.dropbox.com/sh/6e6kwh84y9b6aoi/AAAAZtzvnK7jm0qS3C5TEa9qa?dl=0)
 
 ## Features
 
@@ -36,7 +48,3 @@ If you're looking for an example of how to do certain things in the Unreal Engin
 - Adjustable graphics quality
 - Angle-based velocity adjustments (faster downhill, slower uphill)
 - ...and the usual suspects like landscapes, saving game settings, HUDs, multilevel game state, etc.
-
-## Current Progress Update (2021-09-02)
-
-I've temporarily removed the cinematics and voice overs from the game for now, to get things ready in time for the jam. They'll be back in a new form soon! :)
